@@ -1,1 +1,5 @@
-# Exploratory Data Analysis on Primary Care Physicians VS-Specialty-Care-Physicians
+# Exploratory Data Analysis (EDA) on Healthcare Access
+
+This project is an exploratory data analysis of healthcare access, comparing primary care and specialty care.
+
+You can view the Jupyter Notebook directly on GitHub [here](./midterm.ipynb).
